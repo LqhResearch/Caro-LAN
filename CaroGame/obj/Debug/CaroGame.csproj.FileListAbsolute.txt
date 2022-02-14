@@ -1,0 +1,12 @@
+A:\Self-created application\Research\CaroGame\CaroGame\bin\Debug\CaroGame.exe.config
+A:\Self-created application\Research\CaroGame\CaroGame\bin\Debug\CaroGame.exe
+A:\Self-created application\Research\CaroGame\CaroGame\bin\Debug\CaroGame.pdb
+A:\Self-created application\Research\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.AssemblyReference.cache
+A:\Self-created application\Research\CaroGame\CaroGame\obj\Debug\CaroGame.Chessboard.resources
+A:\Self-created application\Research\CaroGame\CaroGame\obj\Debug\CaroGame.Properties.Resources.resources
+A:\Self-created application\Research\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.GenerateResource.cache
+A:\Self-created application\Research\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.CoreCompileInputs.cache
+A:\Self-created application\Research\CaroGame\CaroGame\obj\Debug\CaroGame.exe
+A:\Self-created application\Research\CaroGame\CaroGame\obj\Debug\CaroGame.pdb
+A:\Self-created application\Research\CaroGame\CaroGame\bin\Debug\Guna.UI2.dll
+A:\Self-created application\Research\CaroGame\CaroGame\obj\Debug\CaroGame.csproj.CopyComplete
